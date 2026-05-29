@@ -1,0 +1,89 @@
+id,text,label,category,source,date
+1.0,IAF inducts first squadron of domestically built Tejas Mark 2 fighters,REAL,military,Zee News,2024-04-08
+2.0,LGBTQ acceptance funded by CIA to destabilize traditional family structures,FAKE,social,HT,2024-09-27
+3.0,Government introduces new data privacy bill in parliament,REAL,political,NDTV,2024-12-03
+4.0,Underground tunnels connect all major places of worship for secret rituals,FAKE,religion,India Today,2024-09-27
+5.0,Student arrested for creating deepfake images of classmates for blackmail,REAL,crime,Hindustan Times,2023-11-05
+6.0,Rumor circulating that adoption agencies prioritizing wealthy applicants over children,UNCERTAIN,social,Scroll,2024-03-22
+7.0,Parliament passes new budget with 8% increase in education spending,REAL,political,ANI,2024-02-26
+8.0,Supreme Court upholds death sentence in gruesome 2019 rape and murder case,REAL,crime,Hindustan Times,2024-09-14
+9.0,Synagogue in Mumbai restored after 30-year renovation project completed,REAL,religion,India Today,2025-07-05
+10.0,Secret memo reveals government plans to ban all private vehicles,FAKE,political,The Hindu,2024-08-21
+11.0,Entire prison system is for-profit slavery — government benefits from high crime,FAKE,crime,India Today,2023-09-13
+12.0,New fast-track citizenship process for foreign nationals of Indian origin,REAL,immigration,India Today,2024-10-27
+13.0,Oncologists secretly curing cancer with simple herb but hiding the cure,FAKE,health,Health Ministry,2024-11-28
+14.0,All constitutional rights are legally suspended during any declared emergency,FAKE,legal,Supreme Court Observer,2024-11-21
+15.0,Glacier in Swiss Alps disappears completely for first time in recorded history,REAL,environment,National Geographic,2024-10-14
+16.0,Mental health app approved by health ministry for clinical use,REAL,health,NIH,2024-09-02
+17.0,Electric cars actually produce more pollution than petrol cars over lifetime,FAKE,environment,National Geographic,2023-12-16
+414.0,Unconfirmed report suggests national team coach being investigated for corruption,UNCERTAIN,sports,ICC,2024-11-14
+415.0,Food expiry dates are fake — companies set them short to increase sales volume,FAKE,food,Economic Times,2024-05-25
+416.0,All war casualties inflated by government to justify higher defence budget,FAKE,military,NDTV,2024-12-12
+417.0,Navy commissions second aircraft carrier INS Vikrant 2 in Kochi,REAL,military,ANI,2024-08-15
+418.0,Sea surface temperatures in Arabian Sea reach record high fueling cyclone risk,REAL,weather,India Today,2024-03-14
+419.0,Minority commission report documents 200 cases of hate speech in 2024,REAL,religion,The Quint,2023-07-27
+420.0,NASA confirms discovery of water ice on permanently shadowed Moon craters,REAL,science,arXiv,2024-08-03
+421.0,Government raises divestment target to 50000 crore for fiscal year 2025,REAL,finance,LiveMint,2024-04-06
+422.0,Rainwater collection banned secretly to force dependence on corporate water,FAKE,weather,TOI,2024-07-05
+423.0,Teachers secretly trained to identify and report politically incorrect students,FAKE,education,The Hindu Edu,2024-05-18
+424.0,New PMAY scheme provides housing loan subsidy up to 2.67 lakh rupees,REAL,finance,Financial Express,2024-04-24
+425.0,AI-powered code assistant reduces software development time by 40%,REAL,technology,MIT Tech Review,2023-12-17
+426.0,Army generals planning permanent martial law once civil unrest begins,FAKE,military,Times of India,2024-12-03
+427.0,Study confirms Mediterranean diet reduces heart attack risk significantly,REAL,health,PubMed,2024-03-09
+428.0,Unnamed health official claims food additive safety data was never independently verified,UNCERTAIN,food,Food Navigator,2024-08-14
+,a man got pregnent in INDONESIA,Fake,other,,2026-05-25T18:39:48.960713
+,mamta banarjee is the current CM of WB,Real,other,,2026-05-25T18:41:05.015842
+501.0,Debangshu Panda wins Falta Assembly re-poll by over 1.09 lakh votes,Real,political,Zee News,2026-05-22
+502.0,India commences nationwide Population Census 2027 with new digital capture,Real,political,The Hindu,2026-04-15
+503.0,India and Cyprus elevate bilateral ties to Strategic Partnership,Real,political,Zee News,2026-04-28
+504.0,India becomes a net importer of finished steel in April 2026,Real,business,Bloomberg,2026-05-02
+505.0,India issues travel advisory for parts of Africa due to Ebola outbreak,Real,health,WHO,2026-05-18
+506.0,Shekha Jheel Bird Sanctuary designated as India's 99th Ramsar site,Real,environment,National Geographic,2026-05-05
+507.0,Falta Assembly re-poll results rigged by election commission AI algorithm,Fake,political,fakenewssite.com,2026-05-23
+508.0,Population Census 2027 digital self-enumeration database leaked on dark web,Fake,political,conspiracyblog.net,2026-04-20
+509.0,Marco Rubio secretly signs deal transferring India space program to US space force,Fake,political,shockingtruth.org,2026-05-24
+510.0,BHAVYA industrial scheme is a front to seize all farmlands in India,Fake,business,savingsheist.org,2026-05-10
+511.0,Ebola travel advisory is a cover-up for a secret biological weapon experiment,Fake,health,healthmyths.net,2026-05-19
+512.0,Shekha Jheel designated Ramsar site to build a secret military launch pad,Fake,environment,leakedtruth.net,2026-05-07
+601.0,US Navy deploys naval escorts to guide commercial ships through Strait of Hormuz,Real,political,Reuters,2026-05-15
+602.0,WHO declares Ebola outbreak in DRC and Uganda a Public Health Emergency,Real,health,WHO,2026-05-19
+603.0,NASA Artemis II crew reaches historic record distance from Earth behind the Moon,Real,environment,NASA,2026-04-06
+604.0,PAICV leader Francisco Carvalho wins Cape Verde parliamentary elections,Real,political,BBC,2026-05-18
+605.0,"Ted Turner, CNN founder and legendary media entrepreneur, dies at age 87",Real,political,Bloomberg,2026-05-06
+606.0,WHO monitors Andes hantavirus outbreak linked to Atlantic cruise ship,Real,health,WHO,2026-05-02
+607.0,UN report warns of human costs and mining pollution in digital tech push,Real,environment,National Geographic,2026-04-25
+608.0,India and CYP elevate bilateral relations to strategic partnership,Real,political,Times of India,2026-04-28
+609.0,Falta assembly re-poll won by BJP candidate Debangshu Panda,Real,political,Zee News,2026-05-21
+610.0,India becomes a net importer of finished steel in April 2026 due to infrastructure boom,Real,business,Bloomberg,2026-05-01
+611.0,IMD forecasts severe heatwaves across central India during summer,Real,environment,India Meteorological,2026-05-10
+612.0,Legal Metrology rules amended to expand verification of CNG and LNG dispensers,Real,business,Economic Times,2026-05-12
+613.0,Shekha Jheel Bird Sanctuary designated as India's 99th Ramsar site of importance,Real,environment,Carbon Brief,2026-05-04
+614.0,NEET paper leak case accused Shubham Khairnar sent to judicial custody,Real,political,NDTV,2026-05-20
+615.0,New tardigrade species discovered off Odisha coast named Actinarctus odissi,Real,environment,Nature,2026-05-14
+616.0,Strait of Hormuz maritime crisis fully staged by Hollywood film crews,Fake,political,conspiracyblog.net,2026-05-16
+617.0,WHO ebola outbreak declared to force mandatory microchip vaccines globally,Fake,health,healthmyths.net,2026-05-20
+618.0,Artemis II moon flyby faked using CGI inside secret NASA dome in Nevada,Fake,environment,moonhoax.net,2026-04-08
+619.0,Cape Verde election won by mind control beams deployed on citizens,Fake,political,leakedtruth.net,2026-05-19
+620.0,Ted Turner actually cloned in 1999 and clone died of battery failure,Fake,political,shockingtruth.org,2026-05-08
+621.0,Atlantic cruise hantavirus was a bio-weapon experiment targeting elite passengers,Fake,health,conspiracyblog.net,2026-05-03
+622.0,UN green energy report is a front to ban all consumer electronics forever,Fake,environment,savingsheist.org,2026-04-27
+623.0,Cyprus-India partnership contains secret clause to deport all minority groups,Fake,political,fakenewssite.com,2026-05-01
+624.0,Falta re-poll won by Debangshu Panda due to 1 lakh pre-programmed fake votes,Fake,political,politicalbuzz.net,2026-05-22
+625.0,India's steel imports rising because government is building a space fortress,Fake,business,shockingtruth.org,2026-05-03
+626.0,IMD heatwave forecasts are synthetic lies to cover up regional weather weapons,Fake,environment,climatedenialist.org,2026-05-12
+627.0,CNG and LNG legal metrology amendment secretly measures household breathing air,Fake,business,savingsheist.org,2026-05-14
+628.0,Shekha Jheel Ramsar designation is a front to hide active tactical missile silos,Fake,environment,leakedtruth.net,2026-05-06
+629.0,NEET paper leak mastermind Shubham Khairnar replaced by clone in custody,Fake,political,conspiracyblog.net,2026-05-22
+630.0,Actinarctus odissi tardigrade species engineered by army to infect ocean fish,Fake,environment,healthmyths.net,2026-05-16
+,suvendu adhikari is the current CM of WB,Real,other,,2026-05-25T22:48:25.097300
+,narendra modi is the current CM of WB,Fake,other,,2026-05-25T22:48:50.571432
+,narendra modi is died,Fake,other,,2026-05-25T22:49:10.552453
+,atal bihari bajpayee is dead,Real,other,,2026-05-25T22:50:10.174717
+,"Mamta Banerjee is current CM of West Bengal
+",Real,other,,2026-05-26T17:22:57.247286
+,"NITISH KUMAR IS THE CM OF WEST BENGAL
+",Fake,other,,2026-05-26T17:24:12.923452
+,sun rises in the east,Real,other,,2026-05-26T17:31:21.878980
+,"sun rises in the west
+",Fake,other,,2026-05-26T17:31:49.194865
+,virat kohli died in a car accident,Fake,other,,2026-05-30T00:08:44.985594
