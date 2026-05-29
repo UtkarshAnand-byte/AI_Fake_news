@@ -132,7 +132,7 @@ async def lifespan(app: FastAPI):
         print(f"[Lifespan Startup] Enhanced CURATED_DATASET with {len(csv_training_data)} CSV samples. Total: {len(CURATED_DATASET)} samples")
     
     # Proactively create the initial trained_texts.json if not present using the CURATED_DATASET
-    model_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "models")
+    model_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "models")
     trained_texts_path = os.path.join(model_dir, "trained_texts.json")
     if not os.path.exists(trained_texts_path):
         os.makedirs(model_dir, exist_ok=True)
@@ -514,7 +514,7 @@ def is_in_training_corpus(text: str) -> bool:
         return False
         
     # 1. Try reading from trained_texts.json - EXACT matches only
-    model_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "models")
+    model_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "models")
     trained_texts_path = os.path.join(model_dir, "trained_texts.json")
     if os.path.exists(trained_texts_path):
         try:

@@ -10,9 +10,9 @@ warnings.filterwarnings("ignore", category=InconsistentVersionWarning)
 
 # Absolute paths for the models
 CURRENT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TEXT_CLF_MODEL_PATH = os.path.join(CURRENT_DIR, "..", "models", "text_clf_model.pkl")
-MODEL_PATH = os.path.join(CURRENT_DIR, "..", "models", "model.pkl")
-VECTORIZER_PATH = os.path.join(CURRENT_DIR, "..", "models", "vectorizer.pkl")
+TEXT_CLF_MODEL_PATH = os.path.join(CURRENT_DIR, "models", "text_clf_model.pkl")
+MODEL_PATH = os.path.join(CURRENT_DIR, "models", "model.pkl")
+VECTORIZER_PATH = os.path.join(CURRENT_DIR, "models", "vectorizer.pkl")
 
 # Sensational/Clickbait lexical triggers
 SENSATIONAL_WORDS = {
