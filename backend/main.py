@@ -155,11 +155,11 @@ app = FastAPI(
     lifespan=lifespan
 )
 
-# Configure CORS to allow any local frontend origin
+# Configure CORS to allow any frontend origin
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins for local development
-    allow_credentials=True,
+    allow_origins=["*"],  # Allows all origins for local and production deployment
+    allow_credentials=False,  # Must be False when allow_origins is ["*"] to prevent FastAPI/Starlette startup assertion crash
     allow_methods=["*"],
     allow_headers=["*"],
 )
